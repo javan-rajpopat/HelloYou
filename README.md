@@ -7,7 +7,6 @@ Features
 ---
 * send pictures :sunrise:
 * send emojis :smile:
-* keyboard support :musical_keyboard:
 * online users count statistic :ghost:
 
 How to run
